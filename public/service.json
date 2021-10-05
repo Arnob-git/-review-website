@@ -1,0 +1,47 @@
+[
+    {
+        "price": "$50",
+        "name": "HTML 5",
+        "img": "html.png"
+    },
+    {
+        "price": "$70",
+        "name": "CSS 3",
+        "img": "css.png"
+    },
+    {
+        "price": "$40",
+        "name": "WordPress",
+        "img": "wordpress.png"
+    },
+    {
+        "price": "$120",
+        "name": "C-Sharp",
+        "img": "csharp.png"
+    },
+    {
+        "price": "$120",
+        "name": "C++",
+        "img": "cpp.png"
+    },
+    {
+        "price": "$100",
+        "name": "Freelance",
+        "img": "freelance.png"
+    },
+    {
+        "price": "$150",
+        "name": "Vue js",
+        "img": "vue.png"
+    },
+    {
+        "price": "$140",
+        "name": "Angular js",
+        "img": "angular.png"
+    },
+    {
+        "price": "$200",
+        "name": "React js (jsx)",
+        "img": "react.png"
+    }
+]
